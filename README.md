@@ -1,2 +1,2 @@
-# CodeShef_Problem_solve
+# CodeChef_Problem_solve
 Here I would be posting the solutions 
