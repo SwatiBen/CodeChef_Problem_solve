@@ -4,12 +4,7 @@
 #If Chef is prone to errors print YES, otherwise print NO.
 
 x, y = map(int, input().split())
-
 if(y>x):
     print("YES")
 else:
     print("NO")
-
-
-
-
